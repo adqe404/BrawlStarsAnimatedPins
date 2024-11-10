@@ -1,15 +1,10 @@
 emoji_8bit_overcharge
-emoji_angel1
-emoji_angel2
-emoji_ash_toons
-emoji_bling_star
-emoji_blingbox_1
-emoji_blingbox_2
-emoji_blingbox_3
-emoji_blingbox_4
-emoji_blingbox_5
 
-emoji_champie_demon
+emoji_ash_toons
+emoji_bling_star[static]
+
+
+
 emoji_colette_demon
 emoji_colt_angel
 emoji_cordelius_toon
@@ -22,8 +17,7 @@ emoji_cordelius_toon_sad
 emoji_cordelius_toon_special
 emoji_cordelius_toon_thanks
 emoji_darryl_overcharge
-emoji_demon1
-emoji_demon2
+
 emoji_edgar_angel
 emoji_edgar_angel_angry
 emoji_edgar_angel_clap
@@ -66,7 +60,7 @@ emoji_mortis_demon_special_green
 emoji_mortis_demon_special_pink
 emoji_mortis_demon_thanks
 !emoji_mrp_scmake
-emoji_og_35
+
 emoji_otis_demon
 emoji_otis_overcharge
 emoji_penny_overcharge
@@ -82,9 +76,9 @@ emoji_ruffs_overcharge
 !emoji_surge_evilking_green
 !emoji_surge_evilking_red
 !emoji_surge_overcharge
-emoji_spike_friend
+emoji_spike_friend[static]
 emoji_stu_overcharge
 !emoji_tara_overcharge
 emoji_twins_angel
 emoji_willow_demon
-emoji_zombie_box
+
