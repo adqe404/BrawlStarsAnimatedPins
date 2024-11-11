@@ -80,5 +80,5 @@ emoji_spike_friend[static]
 emoji_stu_overcharge
 !emoji_tara_overcharge
 emoji_twins_angel
-emoji_willow_demo
+emoji_willow_demon
 
