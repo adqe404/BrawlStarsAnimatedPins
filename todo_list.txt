@@ -7,7 +7,15 @@ emoji_bling_star[static]
 
 emoji_colette_demon
 emoji_colt_angel
-
+emoji_cordelius_toon
+emoji_cordelius_toon_angry
+emoji_cordelius_toon_clap
+emoji_cordelius_toon_gg
+emoji_cordelius_toon_happy
+emoji_cordelius_toon_phew
+emoji_cordelius_toon_sad
+emoji_cordelius_toon_special
+emoji_cordelius_toon_thanks
 emoji_darryl_overcharge
 
 emoji_edgar_angel
@@ -28,7 +36,7 @@ emoji_larry_angel_black
 emoji_larry_angel_pink
 !emoji_leon_dino
 
-emoji_lily_angel
+
 emoji_lou_toon
 emoji_maisie_toon
 emoji_maisie_toon_green
