@@ -1,4 +1,4 @@
-emoji_8bit_overcharg
+emoji_8bit_overcharge
 
 emoji_ash_toons
 emoji_bling_star[static]
@@ -7,15 +7,7 @@ emoji_bling_star[static]
 
 emoji_colette_demon
 emoji_colt_angel
-emoji_cordelius_toon
-emoji_cordelius_toon_angry
-emoji_cordelius_toon_clap
-emoji_cordelius_toon_gg
-emoji_cordelius_toon_happy
-emoji_cordelius_toon_phew
-emoji_cordelius_toon_sad
-emoji_cordelius_toon_special
-emoji_cordelius_toon_thanks
+
 emoji_darryl_overcharge
 
 emoji_edgar_angel
