@@ -1,6 +1,6 @@
 emoji_8bit_overcharge
 
-emoji_ash_toon
+emoji_ash_toons
 emoji_bling_star[static]
 
 
