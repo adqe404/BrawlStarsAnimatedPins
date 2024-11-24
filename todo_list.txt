@@ -6,7 +6,7 @@ emoji_bling_star[static]
 
 
 
-emoji_colt_angel
+
 
 emoji_darryl_overcharge
 
