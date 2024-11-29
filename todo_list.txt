@@ -12,7 +12,7 @@ emoji_darryl_overcharge
 
 
 emoji_emz_demon
-emoji_gene_angel
+
 emoji_jessie_knightdark
 emoji_larry_angel_black
 emoji_larry_angel_pink
