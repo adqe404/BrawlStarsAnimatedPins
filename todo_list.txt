@@ -8,24 +8,7 @@ emoji_berry_starrforce
 emoji_bibi_ts
 emoji_bo_brawlentine
 emoji_bonnie_xmas
-emoji_bp_goodrandoms
-emoji_bp_goodrandoms_angry
-emoji_bp_goodrandoms_clap
-emoji_bp_goodrandoms_gg
-emoji_bp_goodrandoms_happy
-emoji_bp_goodrandoms_phew
-emoji_bp_goodrandoms_sad
-emoji_bp_goodrandoms_special
-emoji_bp_goodrandoms_thanks
-emoji_bp_starrforce
-emoji_bp_starrforce_angry
-emoji_bp_starrforce_clap
-emoji_bp_starrforce_gg
-emoji_bp_starrforce_happy
-emoji_bp_starrforce_phew
-emoji_bp_starrforce_sad
-emoji_bp_starrforce_special
-emoji_bp_starrforce_thanks
+
 emoji_buzz_goodrandoms
 
 emoji_champie_WC2024
