@@ -111,12 +111,7 @@ emoji_surge_ts_special
 emoji_surge_ts_thanks
 
 !emoji_twins_angel
-emoji_ts_alien
-emoji_ts_cone
-emoji_ts_forky
-emoji_ts_pig
-emoji_ts_rex
-emoji_ts_zurg
+
 
 !emoji_willow_demon
 
