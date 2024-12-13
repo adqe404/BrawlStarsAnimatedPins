@@ -1,8 +1,8 @@
 !emoji_8bit_overcharge
-emoji_arcade_pizza
+emoji_arcade_pizza[static(v59)]
 emoji_ash_overcharge
 
-!emoji_bling_star[static]
+
 emoji_berry_overcharge
 emoji_berry_starrforce
 emoji_bibi_ts
@@ -11,8 +11,7 @@ emoji_bonnie_xmas
 
 emoji_buzz_goodrandoms
 
-emoji_champie_WC2024
-emoji_champie_gingerbread
+
 emoji_colt_ts
 
 
@@ -40,9 +39,9 @@ emoji_kit_toy
 !emoji_larry_angel_pink
 !!emoji_leon_dino
 emoji_leon_esports
-emoji_lny_gold
-emoji_lny_orange
-emoji_lny_snake
+emoji_lny_gold[static(v59)]
+emoji_lny_orange[static(v59)]
+emoji_lny_snake[static(v59)]
 emoji_lola_toy
 
 
@@ -97,10 +96,9 @@ emoji_poco_goodrandoms
 !!emoji_surge_evilking_green
 !!emoji_surge_evilking_red
 !!emoji_surge_overcharge
-!emoji_spike_friend[static]
+
 !emoji_stu_overcharge
-emoji_starrforce_1
-emoji_starrforce_2
+
 emoji_stu_goodrandoms
 emoji_surge_ts
 emoji_surge_ts_angry
