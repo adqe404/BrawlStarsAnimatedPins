@@ -52,21 +52,7 @@ emoji_lola_toy
 !emoji_max_angel
 !!emoji_mike_bellhop
 
-!!emoji_mortis_blue_sb
-!!emoji_mortis_overcharge
-!!emoji_mortis_pink_sb
-!!emoji_mortis_sb
-!emoji_mortis_demon
-!emoji_mortis_demon_angry
-!emoji_mortis_demon_clap
-!emoji_mortis_demon_gg
-!emoji_mortis_demon_happy
-!emoji_mortis_demon_phew
-!emoji_mortis_demon_sad
-!emoji_mortis_demon_special
-!emoji_mortis_demon_special_green
-!emoji_mortis_demon_special_pink
-!emoji_mortis_demon_thanks
+
 emoji_melodie_overcharge
 emoji_melody_goodrandoms_1
 emoji_melody_goodrandoms_2
