@@ -49,7 +49,7 @@ emoji_lola_toy
 !emoji_maisie_toon
 !emoji_maisie_toon_green
 !emoji_maisie_toon_pink
-!emoji_max_angel
+
 !!emoji_mike_bellhop
 
 
@@ -86,15 +86,7 @@ emoji_poco_goodrandoms
 !emoji_stu_overcharge
 
 emoji_stu_goodrandoms
-emoji_surge_ts
-emoji_surge_ts_angry
-emoji_surge_ts_clap
-emoji_surge_ts_gg
-emoji_surge_ts_happy
-emoji_surge_ts_phew
-emoji_surge_ts_sad
-emoji_surge_ts_special
-emoji_surge_ts_thanks
+
 
 !emoji_twins_angel
 
