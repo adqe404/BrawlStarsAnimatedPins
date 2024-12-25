@@ -1,4 +1,3 @@
-!emoji_8bit_overcharge
 emoji_arcade_pizza[static(v59)]
 emoji_ash_overcharge
 
