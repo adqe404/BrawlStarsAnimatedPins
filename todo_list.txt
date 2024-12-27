@@ -69,8 +69,7 @@ emoji_nita_xmas_red
 emoji_penny_toy
 emoji_poco_goodrandoms
 
-!emoji_rico_guard
-!emoji_rico_popcorn
+
 !!emoji_rosa_coco
 !emoji_rosa_toons
 !emoji_ruffs_overcharge
