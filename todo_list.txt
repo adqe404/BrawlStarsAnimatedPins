@@ -1,8 +1,7 @@
 emoji_arcade_pizza[static(v59)]
 
 
-emoji_berry_overcharge
-emoji_berry_starrforce
+
 emoji_bibi_ts
 emoji_bo_brawlentine
 emoji_bonnie_xmas
