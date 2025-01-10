@@ -1,5 +1,4 @@
 emoji_arcade_pizza[static(v59)]
-emoji_ash_overcharge
 
 
 emoji_berry_overcharge
@@ -57,7 +56,6 @@ emoji_melody_goodrandoms_1
 emoji_melody_goodrandoms_2
 emoji_melody_goodrandoms_3
 emoji_mike_brawlentine
-emoji_moe_starrforce
 
 !!emoji_mrp_scmake
 emoji_nita_starrforce
