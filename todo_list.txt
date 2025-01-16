@@ -18,8 +18,7 @@ emoji_colt_ts
 emoji_dynamike_xmas_blue
 
 !emoji_emz_demon
-emoji_eve_overcharge
-emoji_eve_starrforce
+
 emoji_gray_overcharge
 emoji_gray_starrforce
 
