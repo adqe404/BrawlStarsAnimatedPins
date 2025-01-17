@@ -66,10 +66,10 @@ emoji_poco_goodrandoms
 
 !!emoji_rosa_coco
 !emoji_rosa_toons
-!emoji_ruffs_overcharge
+
 
 !!emoji_sandy_lantern
-!!emoji_squeak_overcharge
+
 !!emoji_surge_evilking
 !!emoji_surge_evilking_green
 !!emoji_surge_evilking_red
