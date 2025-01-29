@@ -4,7 +4,7 @@ emoji_arcade_pizza[static(v59)]
 
 
 
-emoji_bonnie_xmas
+
 
 emoji_buzz_goodrandoms
 
@@ -23,8 +23,7 @@ emoji_gray_overcharge
 emoji_gray_starrforce
 
 !emoji_jessie_knightdark
-emoji_janet_overcharge
-emoji_janet_xmas
+
 emoji_jessie_ts
 emoji_kenji_starrforce
 emoji_kenji_starrforce_purple
@@ -75,9 +74,7 @@ emoji_poco_goodrandoms
 !!emoji_surge_evilking_red
 !!emoji_surge_overcharge
 
-!emoji_stu_overcharge
 
-emoji_stu_goodrandoms
 
 
 !emoji_twins_angel
