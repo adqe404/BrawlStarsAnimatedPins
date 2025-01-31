@@ -15,7 +15,7 @@ emoji_arcade_pizza[static(v59)]
 
 
 
-emoji_dynamike_xmas_blue
+
 
 !emoji_emz_demon
 
