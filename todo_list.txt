@@ -35,7 +35,7 @@ emoji_kit_toy
 emoji_lny_gold[static(v59)]
 emoji_lny_orange[static(v59)]
 emoji_lny_snake[static(v59)]
-emoji_lola_toy
+
 
 
 !emoji_lou_toon
