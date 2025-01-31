@@ -13,7 +13,7 @@ emoji_arcade_pizza[static(v59)]
 
 
 
-!emoji_darryl_overcharge
+
 
 emoji_dynamike_xmas_blue
 
