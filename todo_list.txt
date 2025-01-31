@@ -58,8 +58,7 @@ emoji_mike_brawlentine
 
 !emoji_otis_demon
 !emoji_otis_overcharge
-!emoji_penny_overcharge
-emoji_penny_toy
+
 emoji_poco_goodrandoms
 
 
