@@ -23,7 +23,7 @@ emoji_arcade_pizza[static(v59)]
 
 
 
-emoji_kit_toy
+
 
 !emoji_larry_angel_black
 !emoji_larry_angel_pink
