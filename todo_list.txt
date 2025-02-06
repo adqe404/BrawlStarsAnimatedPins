@@ -21,9 +21,7 @@ emoji_arcade_pizza[static(v59)]
 
 
 
-!emoji_jessie_knightdark
 
-emoji_jessie_ts
 emoji_kenji_starrforce
 emoji_kenji_starrforce_purple
 emoji_kenji_starrforce_red
