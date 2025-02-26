@@ -75,16 +75,7 @@ emoji_crysmile
 !!emoji_maisie_toon_pink
 emoji_daryl_mascot
 emoji_edgar_team
-emoji_finn
-emoji_finn_angry
-emoji_finn_clap
-emoji_finn_facepalm
-emoji_finn_gg
-emoji_finn_happy
-emoji_finn_phew
-emoji_finn_sad
-emoji_finn_special
-emoji_finn_thanks
+
 emoji_frank_sandsoftime2
 emoji_frank_sandsoftime2_black
 emoji_frank_sandsoftime2_white
@@ -102,16 +93,7 @@ emoji_juju_sandsoftime2
 emoji_leek
 emoji_lilit_overcharge
 emoji_lolla_overcharge
-emoji_lumi
-emoji_lumi_angry
-emoji_lumi_clap
-emoji_lumi_facepalm
-emoji_lumi_gg
-emoji_lumi_happy
-emoji_lumi_phew
-emoji_lumi_sad
-emoji_lumi_special
-emoji_lumi_thanks
+
 
 
 
