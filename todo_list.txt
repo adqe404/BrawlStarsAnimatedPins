@@ -1,6 +1,4 @@
-!emoji_arcade_pizza[static(v59)]
-emoji_aprilfools_egg
-emoji_aprilfools_eggcool
+
 emoji_ash_pekka
 
 emoji_bea_overcharge
@@ -11,7 +9,9 @@ emoji_bo_overcharge
 
 emoji_brock_lunar
 emoji_bronson_overcharge
-emoji_buisness
+
+emoji_buisness[static(v60)]
+
 emoji_bull_B800
 emoji_bull_spaceox
 emoji_buster_super
@@ -19,9 +19,9 @@ emoji_buzz_team
 emoji_cameron_overcharge
 emoji_carl_overcharge
 emoji_carl_super
-emoji_champie_darksands
-emoji_champie_sticker
-emoji_champie_superheroes
+
+
+emoji_champie_superheroes[static(v60)]
 emoji_chester_overcharge
 emoji_chester_uno
 emoji_chuck_super
@@ -35,7 +35,8 @@ emoji_colt_ranked_red
 emoji_colt_ranked_sad
 emoji_colt_ranked_special
 emoji_colt_ranked_thanks
-emoji_crysmile
+
+emoji_crysmile[static(v60)]
 
 
 
@@ -46,9 +47,7 @@ emoji_crysmile
 
 
 
-!emoji_lny_gold[static(v59)]
-!emoji_lny_orange[static(v59)]
-!emoji_lny_snake[static(v59)]
+
 
 
 
@@ -62,18 +61,17 @@ emoji_edgar_team
 emoji_frank_sandsoftime2
 emoji_frank_sandsoftime2_black
 emoji_frank_sandsoftime2_white
-emoji_graffiti_green
-emoji_graffiti_purple
-emoji_graffiti_ranked
-emoji_graffiti_red
-emoji_graffiti_sign
-emoji_graffiti_yellow
+
 emoji_grom_overcharge
 emoji_grom_super
 emoji_janet_super
-emoji_jawn
+
+emoji_jawn[static(v60)]
+
 emoji_juju_sandsoftime2
-emoji_leek
+
+emoji_leek[static(v60)]
+
 emoji_lilit_overcharge
 emoji_lolla_overcharge
 
@@ -92,10 +90,10 @@ emoji_mandy_carnival
 emoji_mandy_overcharge
 emoji_meeple_sandsoftime2
 emoji_meg_overcharge
-emoji_moai
-emoji_mrbat
-emoji_mrbat_cool
-emoji_mrbat_pink
+
+emoji_moai[static(v60)]
+
+
 emoji_mrp_overcharge
 
 !!emoji_otis_demon
@@ -104,7 +102,9 @@ emoji_ollie_sandsoftime2
 !emoji_poco_goodrandoms
 emoji_pam_aprilfools
 emoji_pam_overcharge
-emoji_potato
+
+emoji_potato[static(v60)]
+
 emoji_primo_elrudo
 
 
@@ -123,28 +123,19 @@ emoji_ruffs_sandsoftime2
 !!!emoji_surge_evilking_red
 !!!emoji_surge_overcharge
 emoji_sam_super
-emoji_sandsoftime2_catgod
-emoji_sandsoftime2_mummy
-emoji_sandsoftime2_pyramid
-emoji_sandsoftime2_skull
-emoji_scstore_bling
-emoji_scstore_cash
-emoji_scstore_gems
-emoji_scstore_shop
-emoji_scstore_wallet
+
+
 emoji_shelly_princes
-emoji_spicy
+
+emoji_spicy[static(v60)]
+
 emoji_squeak_sandsoftime2
-emoji_super_1
-emoji_super_2
+
 emoji_surge_kong
-emoji_uno_block
-emoji_uno_four
-emoji_uno_nou
-emoji_uno_reverse
-emoji_uno_thumbs
-emoji_upsidedown
-emoji_womensday_25
+
+emoji_upsidedown[static(v60)]
+
+
 [lmao]moji_colt_ranked_gg
 
 
