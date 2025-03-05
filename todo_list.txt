@@ -15,7 +15,7 @@ emoji_buisness[static(v60)]
 emoji_bull_B800
 emoji_bull_spaceox
 emoji_buster_super
-emoji_buzz_team
+
 emoji_cameron_overcharge
 emoji_carl_overcharge
 emoji_carl_super
@@ -25,16 +25,7 @@ emoji_champie_superheroes[static(v60)]
 emoji_chester_overcharge
 emoji_chester_uno
 emoji_chuck_super
-emoji_colt_ranked
-emoji_colt_ranked_angry
-emoji_colt_ranked_black
-emoji_colt_ranked_clap
-emoji_colt_ranked_happy
-emoji_colt_ranked_phew
-emoji_colt_ranked_red
-emoji_colt_ranked_sad
-emoji_colt_ranked_special
-emoji_colt_ranked_thanks
+
 
 emoji_crysmile[static(v60)]
 
@@ -56,7 +47,7 @@ emoji_crysmile[static(v60)]
 !!emoji_maisie_toon_green
 !!emoji_maisie_toon_pink
 emoji_daryl_mascot
-emoji_edgar_team
+
 
 emoji_frank_sandsoftime2
 emoji_frank_sandsoftime2_black
@@ -111,7 +102,7 @@ emoji_primo_elrudo
 !!!emoji_rosa_coco
 !!emoji_rosa_toons
 emoji_rico_aprilfools
-emoji_rico_team
+
 emoji_ruffs_marshal
 emoji_ruffs_sandsoftime2
 
@@ -125,7 +116,7 @@ emoji_ruffs_sandsoftime2
 emoji_sam_super
 
 
-emoji_shelly_princes
+
 
 emoji_spicy[static(v60)]
 
@@ -136,7 +127,6 @@ emoji_surge_kong
 emoji_upsidedown[static(v60)]
 
 
-[lmao]moji_colt_ranked_gg
 
 
 
