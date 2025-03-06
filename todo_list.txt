@@ -1,5 +1,5 @@
 
-emoji_ash_pekka
+
 
 emoji_bea_overcharge
 emoji_bibi_super
@@ -53,8 +53,7 @@ emoji_frank_sandsoftime2
 emoji_frank_sandsoftime2_black
 emoji_frank_sandsoftime2_white
 
-emoji_grom_overcharge
-emoji_grom_super
+
 emoji_janet_super
 
 emoji_jawn[static(v60)]
