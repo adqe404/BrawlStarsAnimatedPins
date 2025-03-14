@@ -97,8 +97,7 @@ emoji_potato[static(v60)]
 emoji_primo_elrudo
 
 
-!!!emoji_rosa_coco
-!!emoji_rosa_toons
+
 emoji_rico_aprilfools
 
 emoji_ruffs_marshal
