@@ -1,21 +1,17 @@
 
 
 
-emoji_bibi_super
-emoji_bibi_super_blue
-emoji_bibi_super_pink
-emoji_bo_overcharge
 
-emoji_brock_lunar
-emoji_bronson_overcharge
+
+
+
+
 
 emoji_buisness[static(v60)]
 
-emoji_bull_B800
-emoji_bull_spaceox
-emoji_buster_super
+emoji_bull_B800[static(v60)]
 
-emoji_cameron_overcharge
+
 emoji_carl_overcharge
 emoji_carl_super
 
@@ -42,9 +38,7 @@ emoji_crysmile[static(v60)]
 
 
 !!emoji_lou_toon
-!!emoji_maisie_toon
-!!emoji_maisie_toon_green
-!!emoji_maisie_toon_pink
+
 emoji_daryl_mascot
 
 
@@ -98,7 +92,7 @@ emoji_primo_elrudo
 
 
 
-emoji_rico_aprilfools
+
 
 emoji_ruffs_marshal
 emoji_ruffs_sandsoftime2
@@ -110,7 +104,7 @@ emoji_ruffs_sandsoftime2
 !!!emoji_surge_evilking_green
 !!!emoji_surge_evilking_red
 !!!emoji_surge_overcharge
-emoji_sam_super
+
 
 
 
