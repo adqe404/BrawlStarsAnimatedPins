@@ -12,14 +12,12 @@ emoji_buisness[static(v60)]
 emoji_bull_B800[static(v60)]
 
 
-emoji_carl_overcharge
-emoji_carl_super
+
 
 
 emoji_champie_superheroes[static(v60)]
-emoji_chester_overcharge
-emoji_chester_uno
-emoji_chuck_super
+
+
 
 
 emoji_crysmile[static(v60)]
@@ -29,15 +27,6 @@ emoji_crysmile[static(v60)]
 
 
 
-
-
-
-
-
-
-
-
-!!emoji_lou_toon
 
 emoji_daryl_mascot
 
@@ -67,17 +56,16 @@ emoji_lolla_overcharge
 !emoji_melody_goodrandoms_3
 
 
-!!!emoji_mrp_scmake
 
-emoji_mandy_carnival
-emoji_mandy_overcharge
+
+
 emoji_meeple_sandsoftime2
 emoji_meg_overcharge
 
 emoji_moai[static(v60)]
 
 
-emoji_mrp_overcharge
+
 
 !!emoji_otis_demon
 !!emoji_otis_overcharge
