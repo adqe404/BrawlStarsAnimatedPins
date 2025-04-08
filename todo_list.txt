@@ -28,38 +28,20 @@ emoji_crysmile[static(v60)]
 
 
 
-emoji_daryl_mascot
+emoji_daryl_mascot[static(v60)]
 
 
-emoji_frank_sandsoftime2
-emoji_frank_sandsoftime2_black
-emoji_frank_sandsoftime2_white
-
-
-emoji_janet_super
 
 emoji_jawn[static(v60)]
 
-emoji_juju_sandsoftime2
 
 emoji_leek[static(v60)]
 
-emoji_lilit_overcharge
-emoji_lolla_overcharge
-
-
-
-
-!emoji_melodie_overcharge
-!emoji_melody_goodrandoms_1
-!emoji_melody_goodrandoms_2
-!emoji_melody_goodrandoms_3
 
 
 
 
 
-emoji_meeple_sandsoftime2
 emoji_meg_overcharge
 
 emoji_moai[static(v60)]
@@ -67,8 +49,7 @@ emoji_moai[static(v60)]
 
 
 
-!!emoji_otis_demon
-!!emoji_otis_overcharge
+
 emoji_ollie_sandsoftime2
 !emoji_poco_goodrandoms
 emoji_pam_aprilfools
