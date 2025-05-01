@@ -13,24 +13,7 @@ emoji_ash_ninja_black
 !emoji_bull_B800[static(v60)]
 
 emoji_bonnie_overcharge
-emoji_bp_feudaljapan
-emoji_bp_feudaljapan_angry
-emoji_bp_feudaljapan_clap
-emoji_bp_feudaljapan_gg
-emoji_bp_feudaljapan_happy
-emoji_bp_feudaljapan_phew
-emoji_bp_feudaljapan_sad
-emoji_bp_feudaljapan_special
-emoji_bp_feudaljapan_thanks
-emoji_bp_kaiju
-emoji_bp_kaiju_angry
-emoji_bp_kaiju_clap
-emoji_bp_kaiju_gg
-emoji_bp_kaiju_happy
-emoji_bp_kaiju_phew
-emoji_bp_kaiju_sad
-emoji_bp_kaiju_special
-emoji_bp_kaiju_thanks
+
 emoji_bull_lion
 
 
