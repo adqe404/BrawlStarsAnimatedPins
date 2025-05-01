@@ -9,7 +9,7 @@ emoji_ash_ninja_black
 
 
 
-!emoji_buisness[static(v60)]
+
 !emoji_bull_B800[static(v60)]
 
 emoji_bonnie_overcharge
@@ -20,12 +20,12 @@ emoji_bull_lion
 
 
 
-!emoji_champie_superheroes[static(v60)]
-!emoji_crysmile[static(v60)]
+
+
 
 emoji_carl_hog
 emoji_carl_line
-emoji_champie_feudaljapan
+emoji_champie_feudaljapan[static(v61)]
 emoji_chuck_overcharge
 emoji_clancy_kaiju
 emoji_clancy_overcharge
@@ -49,12 +49,12 @@ emoji_edgar_kaiju
 emoji_edgar_kaiju_black
 emoji_edgar_kaiju_white
 
-emoji_feudaljapan_8bitsushi
-emoji_feudaljapan_baoninja
-emoji_feudaljapan_dorosqueak
-emoji_feudaljapan_prawnsushi
-emoji_feudaljapan_samuraisushi
-emoji_feudaljapan_wasabi
+
+emoji_feudaljapan_baoninja[static(v61)]
+emoji_feudaljapan_prawnsushi[static(v61)]
+emoji_feudaljapan_samuraisushi[static(v61)]
+emoji_feudaljapan_wasabi[static(v61)]
+
 emoji_finx_mecha
 emoji_finx_mecha_angry
 emoji_finx_mecha_clap
@@ -70,15 +70,12 @@ emoji_gray_feudaljapan
 emoji_griff_kaiju
 emoji_griff_overcharge
 emoji_gus_overcharge
-!emoji_jawn[static(v60)]
+
 
 emoji_jessie_summer
 
 
-emoji_kaiju_brain
-emoji_kaiju_dino
-emoji_kaiju_fish
-emoji_kaiju_robot
+
 
 emoji_kenji_feudaljapan
 emoji_kenji_feudaljapan_angry
@@ -90,7 +87,7 @@ emoji_kenji_feudaljapan_sad
 emoji_kenji_feudaljapan_special
 emoji_kenji_feudaljapan_thanks
 emoji_kenji_overcharge
-!emoji_leek[static(v60)]
+
 
 emoji_leon_shark
 emoji_lily_overcharge
@@ -101,15 +98,12 @@ emoji_lily_overcharge
 
 !emoji_meg_overcharge
 
-!emoji_moai[static(v60)]
+
 emoji_mandy_witch
-emoji_matcherino_cry
-emoji_matcherino_happy
+
 emoji_melody_goodrandoms
 emoji_mico_kaiju
-emoji_moba_center
-emoji_moba_left
-emoji_moba_right
+
 emoji_mortis_nightwitch
 
 
@@ -120,7 +114,7 @@ emoji_mortis_nightwitch
 !emoji_pam_aprilfools
 !emoji_pam_overcharge
 
-!emoji_potato[static(v60)]
+
 
 !emoji_primo_elrudo
 emoji_piper_feudaljapan
@@ -146,7 +140,7 @@ emoji_poco_starr
 
 
 
-!emoji_spicy[static(v60)]
+
 
 !emoji_squeak_sandsoftime2
 
@@ -155,9 +149,9 @@ emoji_shade_graffiti
 emoji_shade_overcharge
 emoji_sprout_feudaljapan
 emoji_squeak_potato
-emoji_statue
 
-!emoji_upsidedown[static(v60)]
+
+
 
 
 
