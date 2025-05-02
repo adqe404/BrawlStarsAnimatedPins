@@ -55,17 +55,7 @@ emoji_feudaljapan_prawnsushi[static(v61)]
 emoji_feudaljapan_samuraisushi[static(v61)]
 emoji_feudaljapan_wasabi[static(v61)]
 
-emoji_finx_mecha
-emoji_finx_mecha_angry
-emoji_finx_mecha_clap
-emoji_finx_mecha_gg
-emoji_finx_mecha_green
-emoji_finx_mecha_happy
-emoji_finx_mecha_phew
-emoji_finx_mecha_red
-emoji_finx_mecha_sad
-emoji_finx_mecha_special
-emoji_finx_mecha_thanks
+
 emoji_gray_feudaljapan
 emoji_griff_kaiju
 emoji_griff_overcharge
@@ -77,16 +67,7 @@ emoji_jessie_summer
 
 
 
-emoji_kenji_feudaljapan
-emoji_kenji_feudaljapan_angry
-emoji_kenji_feudaljapan_clap
-emoji_kenji_feudaljapan_gg
-emoji_kenji_feudaljapan_happy
-emoji_kenji_feudaljapan_phew
-emoji_kenji_feudaljapan_sad
-emoji_kenji_feudaljapan_special
-emoji_kenji_feudaljapan_thanks
-emoji_kenji_overcharge
+
 
 
 emoji_leon_shark
