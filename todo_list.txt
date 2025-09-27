@@ -1,8 +1,7 @@
 emoji_8bit_angel
 
 emoji_amber_fantasy
-emoji_angeldemon_starangel
-emoji_angeldemon_stardemon
+
 
 !!emoji_amber_overcharge
 !!emoji_angelo_feudaljapan
@@ -17,8 +16,6 @@ emoji_bo_fantasy
 emoji_bo_fantasy_black
 emoji_bo_fantasy_green
 emoji_bonnie_greek
-emoji_box_mina
-emoji_box_ziggy
 emoji_bp_brawloween
 emoji_bp_brawloween_angry
 emoji_bp_brawloween_clap
@@ -55,10 +52,7 @@ emoji_bp_street_phew
 emoji_bp_street_sad
 emoji_bp_street_special
 emoji_bp_street_thanks
-emoji_brawloween_box
-emoji_brawloween_hoodie
-emoji_brawloween_scarepumpkin
-emoji_brawloween_trickortreat
+
 emoji_bull_demon
 emoji_buster_angel
 emoji_buzz_fisherman
@@ -72,11 +66,8 @@ emoji_byron_subway
 !!emoji_bull_lion
 
 emoji_carl_carreta
-emoji_carreta_juice
-emoji_champi_knight
-emoji_champie_bling
-emoji_champie_brazil
-emoji_champie_greek
+emoji_carreta_juice[static(v63)]
+
 emoji_chester_university
 emoji_crow_brawloween
 emoji_crow_brawloween_blue
@@ -84,7 +75,7 @@ emoji_crow_brawloween_red
 
 !!emoji_carl_hog
 !!emoji_carl_line
-!!emoji_champie_feudaljapan[static(v61)]
+
 !!emoji_chuck_overcharge
 !!emoji_clancy_kaiju
 !!emoji_clancy_overcharge
@@ -122,18 +113,7 @@ emoji_emz_street_green
 emoji_fang_demon
 emoji_finx_overcharge
 
-!!emoji_feudaljapan_baoninja[static(v61)]
-!!emoji_feudaljapan_prawnsushi[static(v61)]
-!!emoji_feudaljapan_samuraisushi[static(v61)]
-!!emoji_feudaljapan_wasabi[static(v61)]
 
-emoji_graffiti_blue
-emoji_graffiti_box
-emoji_graffiti_orange
-emoji_graffiti_pink
-emoji_greek_ares
-emoji_greek_atlas
-emoji_greek_temple
 emoji_gus_demon
 
 !!emoji_gray_feudaljapan
@@ -162,8 +142,7 @@ emoji_lumi_overcharge
 emoji_max_streetwear
 emoji_meeple_overcharge
 emoji_meg_angel
-emoji_moonharvest_bunny25
-emoji_moonharvest_lanterns
+
 emoji_mortis_greek
 emoji_mortis_greek_blue
 emoji_mortis_greek_gold
@@ -201,11 +180,6 @@ emoji_poco_street
 emoji_poco_street_black
 emoji_poco_street_white
 emoji_primo_carreta
-emoji_propass_angrybirb
-emoji_propass_coffin
-emoji_propass_phewbirb
-emoji_propass_takethel
-emoji_propass_watermelonghost
 
 !!!!emoji_poco_goodrandoms
 !!!emoji_pam_aprilfools
@@ -217,7 +191,6 @@ emoji_propass_watermelonghost
 !!emoji_piper_feudaljapan_green
 !!emoji_poco_starr
 
-emoji_removedmastery
 emoji_rico_brawloween
 emoji_rt_brawloween
 emoji_rt_overcharge
@@ -236,11 +209,10 @@ emoji_sandy_greek_sad
 emoji_sandy_greek_special
 emoji_sandy_greek_thanks
 emoji_spike_carreta
-emoji_street_cool
-emoji_street_flameheart
-emoji_street_pogogun
-emoji_street_popcorn
-emoji_street_train
+
+emoji_street_cool[static(v63)]
+emoji_street_popcorn[static(v63)]
+
 emoji_stu_street
 emoji_surge_lunar
 emoji_surge_lunar_angry
@@ -276,10 +248,8 @@ emoji_tick_brawloween_phew
 emoji_tick_brawloween_sad
 emoji_tick_brawloween_special
 emoji_tick_brawloween_thanks
-emoji_timefor
+
 emoji_twin_overcharge
-emoji_university_gradeA
-emoji_university_gradeF
 
 !!!!!emoji_willow_demon
 !!emoji_tara_feudaljapan
