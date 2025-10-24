@@ -30,16 +30,13 @@ emoji_byron_subway
 
 !!emoji_bull_lion
 
-emoji_carl_carreta
+emoji_carl_carreta[static(v63)]
 emoji_carreta_juice[static(v63)]
 
 emoji_chester_university
 emoji_crow_brawloween
 emoji_crow_brawloween_blue
 emoji_crow_brawloween_red
-
-!!emoji_carl_hog
-!!emoji_carl_line
 
 !!emoji_chuck_overcharge
 !!emoji_clancy_kaiju
@@ -53,17 +50,7 @@ emoji_crow_brawloween_red
 emoji_darryl_greek
 emoji_doug_fantasy
 emoji_doug_overcharge
-emoji_dynamike_propass
-emoji_dynamike_propass_angry
-emoji_dynamike_propass_clap
-emoji_dynamike_propass_gg
-emoji_dynamike_propass_happy
-emoji_dynamike_propass_phew
-emoji_dynamike_propass_sad
-emoji_dynamike_propass_special
-emoji_dynamike_propass_special_green
-emoji_dynamike_propass_special_red
-emoji_dynamike_propass_thanks
+
 
 !!!emoji_daryl_mascot[static(v60)]
 !!emoji_digger_overcharge
@@ -87,7 +74,7 @@ emoji_gus_demon
 !!emoji_gus_overcharge
 
 emoji_hank_street
-emoji_jacky_fantasy
+
 emoji_jae_overcharge
 emoji_janet_subway
 emoji_jessie_clash
